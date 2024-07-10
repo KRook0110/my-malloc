@@ -1,0 +1,47 @@
+desc: (none)
+cmd: regalloc 2056
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=150105
+mem_heap_B=231356
+mem_heap_extra_B=12
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=155025
+mem_heap_B=232380
+mem_heap_extra_B=20
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=157951
+mem_heap_B=232380
+mem_heap_extra_B=20
+mem_stacks_B=0
+heap_tree=peak
+n2: 232380 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 231356 0x1092B7: create_container (in /home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.01/src/regalloc)
+  n0: 231356 0x109A38: main (in /home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.01/src/regalloc)
+ n0: 1024 in 1 place, below massif's threshold (1.00%)
+#-----------
+snapshot=4
+#-----------
+time=157951
+mem_heap_B=231356
+mem_heap_extra_B=12
+mem_stacks_B=0
+heap_tree=empty

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build",
+  "command": "/usr/bin/cc  -I/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/include  -o CMakeFiles/regalloc.dir/src/main.c.o -c /home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/main.c",
+  "file": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/main.c"
+},
+{
+  "directory": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build",
+  "command": "/usr/bin/cc  -I/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/include  -o CMakeFiles/regalloc.dir/src/utils.c.o -c /home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/utils.c",
+  "file": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/utils.c"
+},
+{
+  "directory": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build",
+  "command": "/usr/bin/cc  -I/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/include  -o CMakeFiles/regalloc.dir/src/regalloc.c.o -c /home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/regalloc.c",
+  "file": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/regalloc.c"
+},
+{
+  "directory": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build",
+  "command": "/usr/bin/cc  -I/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/include  -o CMakeFiles/regalloc.dir/src/container.c.o -c /home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/container.c",
+  "file": "/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/src/container.c"
+}
+]

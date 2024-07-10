@@ -1,0 +1,3 @@
+/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build/CMakeFiles/regalloc.dir
+/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build/CMakeFiles/edit_cache.dir
+/home/shawn-andrew/Documents/programming/projects/mymalloc/regalloc/ver0.1/build/CMakeFiles/rebuild_cache.dir
